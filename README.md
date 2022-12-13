@@ -2,7 +2,7 @@
 
 ![house](https://user-images.githubusercontent.com/70260072/200812150-ecc224e4-5e0f-4002-a7a2-06f816909b4f.png) 
 <div>
-Project Link https://boiling-wave-51166.herokuapp.com/
+Project Link https://20sec-memory-game.netlify.app/
 </div>
 
 ## ❓ What is it ?
